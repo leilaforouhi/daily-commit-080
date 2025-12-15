@@ -1,6 +1,6 @@
 def calculate_percentage(part, total):
     if total == 0:
-        retur 0
+        return 0
     return (part / total) * 100
 
 if __name__ == "__main__":
